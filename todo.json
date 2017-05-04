@@ -1,7 +1,7 @@
 {
 	"task": [
 		{
-			"done": true,
+			"done": false,
 			"taskTitle": "Code furiously"
 		},
 		{
@@ -15,6 +15,9 @@
 		{
 			"done": false,
 			"taskTitle": "Have a life!!"
+		},
+		{
+			"done": false
 		}
 	]
 }
